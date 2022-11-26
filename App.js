@@ -15,6 +15,7 @@ export default function App() {
   return (
     <View style={styles.animationContainer}>
       <Text> Assignment 2 </Text>
+      <Text> Arid No :  19-Arid-796 </Text>
     </View>
   );
 }
