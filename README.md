@@ -8,3 +8,5 @@ I used Lottie Animations to animate the splash screen. <a href="https://lottiefi
 1 - Clone this Repository <br/>
 2 - Use "npm install" command in the Terminal to install the necessory dependencies <br/>
 3 - Use "expo start" to run the app <br/>
+
+![](https://github.com/Mujtaba-Abbasi/RN_SplashScreen_Assignment/blob/main/assets/splash.gif)
